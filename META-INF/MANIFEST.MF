@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Javaplugin
+Bundle-SymbolicName: org.scalaide.eclipsecon.javaplugin;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: scala-ide.org
+Require-Bundle: org.eclipse.ui
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
