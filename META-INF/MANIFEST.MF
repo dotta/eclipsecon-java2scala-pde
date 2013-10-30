@@ -4,6 +4,6 @@ Bundle-Name: Javaplugin
 Bundle-SymbolicName: org.scalaide.eclipsecon.javaplugin;singleton:=true
 Bundle-Version: 1.0.0.qualifier
 Bundle-Vendor: scala-ide.org
-Require-Bundle: org.eclipse.ui
+Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime;bundle-version="3.9.0"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
